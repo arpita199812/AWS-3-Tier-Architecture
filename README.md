@@ -1,4 +1,4 @@
-# AWS 3-Tier Architecture with Blue-Green Deployment Strategy
+# AWS 3-Tier Architecture with Blue-Green Deployment Strategy 
 
 This project demonstrates how to set up a 3-tier architecture on AWS, which includes a VPC with subnets, a load balancer, auto-scaling, a MySQL database, and a blue-green deployment strategy for continuous delivery.
 
